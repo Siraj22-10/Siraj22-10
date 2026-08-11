@@ -47,17 +47,6 @@
 
 ---
 
-### 🟩 Live GitHub Contribution Graph
-
-<div align="center">
-
-  <!-- Original Green GitHub Pixel Grid -->
-  <img src="https://ghchart.rshah.org/216e39/Siraj22-10" width="100%" alt="Siraj's Green GitHub Contributions" />
-
-</div>
-
----
-
 <div align="center">
 
   <p align="center">
