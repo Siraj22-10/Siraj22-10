@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Wave Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=220&section=header&text=Shaik%20Siraj&fontSize=75&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%40%20VIT%20Chennai%20%7C%20AI%2FML%20%26%20DL%20Enthusiast&descSize=18&descColor=bf91f3&descAlignY=55" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=200&section=header&text=Shaik%20Siraj&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
 
   <!-- Dynamic Typing Animation Header -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -110,6 +110,6 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=120&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
