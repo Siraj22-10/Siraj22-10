@@ -1,11 +1,14 @@
 <div align="center">
 
-  <!-- Animated Venom Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=70a5fd&height=200&section=header&text=Welcome%20to%20My%20Universe%20🚀&fontSize=40&fontColor=ffffff&animation=scaleIn" width="100%" alt="Header" />
+  <!-- Header -->
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+    Hey, I'm Shaik Siraj!
+  </h1>
 
-  <!-- Dynamic Typing Animation Header -->
+  <!-- Dynamic Typing Animation -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=false&width=600&height=55&lines=%E2%9A%A1+Hi+there!+I'm+Shaik+Siraj;%F0%9F%9A%80+CS+Student+%40+VIT+Chennai;%F0%9F%90%BE+AI%2FML+%26+DL+Enthusiast;%E2%9C%A8+Building+Cool+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&height=45&lines=%F0%9F%9A%80+CS+Student+%40+VIT+Chennai;%F0%9F%A4%96+AI%2FML+%26+Deep+Learning+Enthusiast;%E2%9C%A8+Building+Cool+Projects;%F0%9F%92%A1+Turning+Data+Into+Intelligence" alt="Typing SVG" />
   </a>
 
   <br /><br />
@@ -110,6 +113,6 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=footer" width="100%" alt="Footer" />
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="Footer" />
 
 </div>
