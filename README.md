@@ -2,19 +2,17 @@
 
   <!-- Dynamic Typing Animation Header with Rotating Icons -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=%E2%9A%A1+Hi+there!+I'm+Shaik+Siraj;%F0%9F%9A%80+CS+Student+%40+VIT+Chennai;%F0%9F%90%BE+Full-Stack+%26+AI%2FML+Enthusiast;%E2%9C%A8+Building+Cool+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=%E2%9A%A1+Hi+there!+I'm+Shaik+Siraj;%F0%9F%9A%80+CS+Student+%40+VIT+Chennai;%F0%9F%90%BE+AI%2FML+%26+DL+Enthusiast;%E2%9C%A8+Building+Cool+Projects" alt="Typing SVG" />
   </a>
 
   <br /><br />
 
-  <!-- Fixed Badge Styles with Better Spacing -->
-  <a href="#-tools--technologies">
-    <img src="https://img.shields.io/badge/Focus-Full--Stack_|_AI-007ACC?style=for-the-badge&logo=codefactor&logoColor=white" alt="Focus Badge" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Role-Software_Developer-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="Role Badge" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Location-India-FF8C00?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
-  </a>
+  <!-- Pixel Style Badges with Updated Focus -->
+  <img src="https://img.shields.io/badge/Focus-AI%2C%20ML%20%26%20DL%20Apps-00E5FF?style=for-the-badge&logo=openai&logoColor=black" alt="Focus Badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Learning-Machine%20Learning-7000FF?style=for-the-badge&logo=python&logoColor=white" alt="Learning Badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/India-FF9900?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location Badge" />
 
 </div>
 
@@ -54,23 +52,12 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
-  <!-- GitHub Contribution Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siraj22-10&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Siraj's Contribution Graph" />
-
-  <br /><br />
-
-  <!-- GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Siraj22-10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siraj22-10&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-
-  <br /><br />
-
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siraj22-10&theme=tokyonight&hide_border=true" width="97%" alt="Streak Stats" />
+  <!-- GitHub Contribution Activity Graph (Dracula Neon Theme) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siraj22-10&theme=dracula&hide_border=true&area=true" width="100%" alt="Siraj's Contribution Graph" />
 
 </div>
 
@@ -79,7 +66,7 @@
 <div align="center">
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Siraj22-10&label=Profile%20Views&color=61afef&style=for-the-badge" alt="Visitor Counter" />
+    <img src="https://komarev.com/ghpvc/?username=Siraj22-10&label=Profile%20Views&color=00e5ff&style=for-the-badge" alt="Visitor Counter" />
   </p>
 
 </div>
