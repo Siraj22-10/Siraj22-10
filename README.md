@@ -47,12 +47,12 @@
 
 ---
 
-### 📊 GitHub Contributions
+### 🟩 Live GitHub Contribution Graph
 
 <div align="center">
 
-  <!-- Classic GitHub Pixel Green Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Siraj22-10/Siraj22-10/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Pixel Green Contribution Snake" />
+  <!-- Original Green GitHub Pixel Grid -->
+  <img src="https://ghchart.rshah.org/216e39/Siraj22-10" width="100%" alt="Siraj's Green GitHub Contributions" />
 
 </div>
 
