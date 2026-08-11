@@ -70,36 +70,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" /> &nbsp;What I Do
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Siraj22-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5&ring_color=70a5fd" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Siraj22-10&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=c0caf5&currStreakNum=c0caf5&dates=545c7a" width="49%" alt="GitHub Streak" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding Animation" />
 
-  <br />
+  <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siraj22-10&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5&langs_count=8" width="40%" alt="Top Languages" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Siraj22-10&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siraj22-10&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=c0caf5&area=true&area_color=70a5fd" width="95%" alt="Activity Graph" />
+  <img src="https://img.shields.io/badge/🧠%20Building-AI%20%26%20ML%20Models-70a5fd?style=for-the-badge&labelColor=1a1b27" alt="AI Models" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/📊%20Exploring-Deep%20Learning-bf91f3?style=for-the-badge&labelColor=1a1b27" alt="Deep Learning" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🚀%20Creating-Cool%20Projects-c0caf5?style=for-the-badge&labelColor=1a1b27" alt="Projects" />
 
 </div>
 
