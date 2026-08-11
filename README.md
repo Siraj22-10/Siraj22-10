@@ -47,12 +47,12 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Contributions
 
 <div align="center">
 
-  <!-- Customized Bar & Glow Line Graph (Dark Blue Background + Cyan Blue & Gold Accents) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siraj22-10&bg_color=0a0e1a&color=ffd700&line=00aaff&point=ffaa00&area_color=0088ff&title_color=00dfff&hide_border=true&area=true" width="100%" alt="Siraj's Contribution Graph" />
+  <!-- Classic GitHub Pixel Green Snake Animation -->
+  <img src="https://raw.githubusercontent.com/Siraj22-10/Siraj22-10/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Pixel Green Contribution Snake" />
 
 </div>
 
