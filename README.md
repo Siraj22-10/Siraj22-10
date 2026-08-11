@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Animated Wave Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=200&section=header&text=Shaik%20Siraj&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
+  <!-- Animated Venom Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=70a5fd&height=200&section=header&text=Welcome%20to%20My%20Universe%20🚀&fontSize=40&fontColor=ffffff&animation=scaleIn" width="100%" alt="Header" />
 
   <!-- Dynamic Typing Animation Header -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
