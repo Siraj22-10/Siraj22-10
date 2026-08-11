@@ -51,8 +51,8 @@
 
 <div align="center">
 
-  <!-- Customized Pitch-Black & Electric Neon Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siraj22-10&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area_color=00f0ff&title_color=00f0ff&hide_border=true&area=true" width="100%" alt="Siraj's Contribution Graph" />
+  <!-- Customized Bar & Glow Line Graph (Dark Blue Background + Cyan Blue & Gold Accents) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siraj22-10&bg_color=0a0e1a&color=ffd700&line=00aaff&point=ffaa00&area_color=0088ff&title_color=00dfff&hide_border=true&area=true" width="100%" alt="Siraj's Contribution Graph" />
 
 </div>
 
