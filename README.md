@@ -1,10 +1,7 @@
 <div align="center">
 
-  <!-- Header -->
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-    Hey, Welcome!
-  </h1>
+  <!-- Water Wave Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=250&section=header&text=Hey%20Welcome%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header" />
 
   <!-- Dynamic Typing Animation -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
